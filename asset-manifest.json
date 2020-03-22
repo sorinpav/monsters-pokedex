@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-pokedex/static/css/main.634d58c8.chunk.css",
+    "main.js": "/monsters-pokedex/static/js/main.b57a29e4.chunk.js",
+    "main.js.map": "/monsters-pokedex/static/js/main.b57a29e4.chunk.js.map",
+    "runtime-main.js": "/monsters-pokedex/static/js/runtime-main.666d0e2c.js",
+    "runtime-main.js.map": "/monsters-pokedex/static/js/runtime-main.666d0e2c.js.map",
+    "static/js/2.6931aef1.chunk.js": "/monsters-pokedex/static/js/2.6931aef1.chunk.js",
+    "static/js/2.6931aef1.chunk.js.map": "/monsters-pokedex/static/js/2.6931aef1.chunk.js.map",
+    "index.html": "/monsters-pokedex/index.html",
+    "precache-manifest.1d54bf883e69d8481affe608483dd816.js": "/monsters-pokedex/precache-manifest.1d54bf883e69d8481affe608483dd816.js",
+    "service-worker.js": "/monsters-pokedex/service-worker.js",
+    "static/css/main.634d58c8.chunk.css.map": "/monsters-pokedex/static/css/main.634d58c8.chunk.css.map",
+    "static/js/2.6931aef1.chunk.js.LICENSE.txt": "/monsters-pokedex/static/js/2.6931aef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666d0e2c.js",
+    "static/js/2.6931aef1.chunk.js",
+    "static/css/main.634d58c8.chunk.css",
+    "static/js/main.b57a29e4.chunk.js"
+  ]
+}
